@@ -1,2 +1,2 @@
 # Simple BMI Calculator Flutter App
-![demo](demo.png)
+![demo](demo/demo.png)
